@@ -1,0 +1,1 @@
+# -nova-plugin-discordcommande
