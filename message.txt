@@ -1,1 +1,1 @@
-plugin de commande discord /discord dernière version v1.0.0.0
+plugin de commande discord /discord dernière version v1.0.0.0 by Is-no-name
